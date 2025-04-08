@@ -37,8 +37,6 @@ To simulate the quantum time evolution of the Transverse-Field Ising Model (TFIM
 
 ## Visualizations
 
-*Include images/GIFs here and update paths*
-
 ![Exact vs Trotter Evolution Comparison](img/tfim_evolution.png)
 *Figure 1: Comparison of expectation values (e.g., $\langle Z_0 \rangle$, $\langle X_0 \rangle$) over time calculated using exact evolution vs. 1st and 2nd order Trotter approximations.*
 
